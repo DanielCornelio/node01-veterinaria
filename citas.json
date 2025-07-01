@@ -1,0 +1,16 @@
+[
+  {
+    "nombre": "Solage",
+    "edad": "3 años",
+    "animal": "perro",
+    "color": "negro",
+    "enfermedad": "garrapatas"
+  },
+  {
+    "nombre": "Lencho",
+    "edad": "10 años",
+    "animal": "loro",
+    "color": "verde",
+    "enfermedad": "ceguera"
+  }
+]
